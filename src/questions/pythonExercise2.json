@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Was ist der Zweck der `elif`-Anweisung in Python?",
+    "answers": ["Um eine Elfe zu deklarieren", "Für eine alternative Bedingung", "Für eine Schleife", "Für eine Endlosschleife"],
+    "correctAnswer": "Für eine alternative Bedingung"
+  },
+  {
+    "question": "Welches Zeichen wird in Python verwendet, um eine Zeichenkette zu verbinden?",
+    "answers": ["+", "&", "*", ":"],
+    "correctAnswer": "+"
+  },
+  {
+    "question": "Wie erstellt man eine leere Liste in Python?",
+    "answers": ["list[]", "emptyList()", "new List()", "list()"],
+    "correctAnswer": "list()"
+  },
+  {
+    "question": "Was repräsentiert `None` in Python?",
+    "answers": ["Leere Zeichenkette", "Eine Zahl", "Kein Wert oder null", "Eine Fehlermeldung"],
+    "correctAnswer": "Kein Wert oder null"
+  },
+  {
+    "question": "Welches Schlüsselwort wird verwendet, um eine Variable zu überprüfen, ob sie in einer Liste existiert?",
+    "answers": ["check", "exists", "in", "validate"],
+    "correctAnswer": "in"
+  },
+  {
+    "question": "Wie kann man auf das erste Element einer Liste in Python zugreifen?",
+    "answers": ["list[1]", "list[0]", "first(list)", "getFirst(list)"],
+    "correctAnswer": "list[0]"
+  },
+  {
+    "question": "Was repräsentiert `True` in Python?",
+    "answers": ["Eine positive Zahl", "Ein Buchstabe", "Wahr oder richtig", "Eine Funktion"],
+    "correctAnswer": "Wahr oder richtig"
+  },
+  {
+    "question": "Welche Funktion wird verwendet, um die Länge einer Zeichenkette zu erhalten?",
+    "answers": ["length()", "stringLength()", "len()", "size()"],
+    "correctAnswer": "len()"
+  },
+  {
+    "question": "Wie entfernt man ein Element an einer bestimmten Position aus einer Liste?",
+    "answers": ["remove()", "delete()", "pop()", "discard()"],
+    "correctAnswer": "pop()"
+  },
+  {
+    "question": "Welche Funktion wird verwendet, um den größten Wert in einer Liste zu finden?",
+    "answers": ["max()", "largest()", "findMax()", "maximum()"],
+    "correctAnswer": "max()"
+  }
+]

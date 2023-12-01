@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Was ist Python?",
+    "answers": ["Eine Schlange", "Eine Programmiersprache", "Ein Computerhersteller", "Ein Betriebssystem"],
+    "correctAnswer": "Eine Programmiersprache"
+  },
+  {
+    "question": "Wie gibt man 'Hello, World!' in Python aus?",
+    "answers": ["print('Hello, World!')", "echo 'Hello, World!'", "display('Hello, World!')", "console.log('Hello, World!')"],
+    "correctAnswer": "print('Hello, World!')"
+  },
+  {
+    "question": "Welche der folgenden Anweisungen wird verwendet, um eine Variable in Python zu erstellen?",
+    "answers": ["var x = 10", "x := 10", "x = 10", "10 = x"],
+    "correctAnswer": "x = 10"
+  },
+  {
+    "question": "Wie definiert man eine Funktion in Python?",
+    "answers": ["define", "function", "def", "func"],
+    "correctAnswer": "def"
+  },
+  {
+    "question": "Was ist eine Liste in Python?",
+    "answers": ["Ein Zahlensystem", "Eine geordnete Sammlung von Elementen", "Ein Textdokument", "Eine mathematische Funktion"],
+    "correctAnswer": "Eine geordnete Sammlung von Elementen"
+  },
+  {
+    "question": "Welches Schlüsselwort wird in Python verwendet, um eine Bedingung zu überprüfen?",
+    "answers": ["if", "check", "validate", "condition"],
+    "correctAnswer": "if"
+  },
+  {
+    "question": "Welche Funktion wird verwendet, um Benutzereingaben in Python zu erhalten ?",
+    "answers": ["input()", "get_input()", "user_input()", "read_input()"],
+    "correctAnswer": "input()"
+  },
+  {
+    "question": "Was ist der Zweck der `else`-Anweisung in Python?",
+    "answers": ["Für eine alternative Bedingung", "Für eine Schleife", "Für eine Endlosschleife", "Um eine Elfe zu deklarieren"],
+    "correctAnswer": "Für eine alternative Bedingung"
+  },
+  {
+    "question": "Welches Schlüsselwort wird in Python verwendet, um eine Funktion zu definieren?",
+    "answers": ["func", "define", "function", "def"],
+    "correctAnswer": "def"
+  },
+  {
+    "question": "Welches Schlüsselwort wird in Python verwendet, um eine Schleife vorzeitig zu beenden?",
+    "answers": ["stop", "exit", "break", "end"],
+    "correctAnswer": "break"
+  }
+]

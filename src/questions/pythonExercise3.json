@@ -1,0 +1,53 @@
+[
+  {
+    "question": "Welche Schleife wird verwendet, um über Elemente einer Liste zu iterieren?",
+    "answers": ["for loop", "while loop", "foreach loop", "repeat loop"],
+    "correctAnswer": "for loop"
+  },
+  {
+    "question": "Was macht die `append()`-Methode bei Listen in Python?",
+    "answers": ["Entfernt das letzte Element", "Fügt ein Element am Anfang hinzu", "Fügt ein Element am Ende hinzu", "Sortiert die Liste"],
+    "correctAnswer": "Fügt ein Element am Ende hinzu"
+  },
+  {
+    "question": "Was ist der Zweck des `__init__`-Konstruktors in einer Python-Klasse?",
+    "answers": ["Initialisiert alle Methoden", "Initialisiert alle Variablen", "Initialisiert die Klasse selbst", "Initialisiert ein Objekt der Klasse"],
+    "correctAnswer": "Initialisiert ein Objekt der Klasse"
+  },
+  {
+    "question": "Welche Funktion wird verwendet, um die Anzahl der Vorkommen eines Elements in einer Liste zu zählen?",
+    "answers": ["count()", "occurrences()", "findCount()", "elementCount()"],
+    "correctAnswer": "count()"
+  },
+  {
+    "question": "Was ist der Unterschied zwischen `==` und `is` in Python?",
+    "answers": ["`==` vergleicht den Wert, `is` vergleicht die Objektidentität", "`==` vergleicht die Objektidentität, `is` vergleicht den Wert",
+      "`==` wird für Zeichenketten verwendet, `is` für Zahlen", "`is` wird für Zeichenketten verwendet, `==` für Zahlen"],
+    "correctAnswer": "`==` vergleicht den Wert, `is` vergleicht die Objektidentität"
+  },
+  {
+    "question": "Welche Methode wird verwendet, um alle Elemente aus einer Menge zu entfernen?",
+    "answers": ["clear()", "removeAll()", "deleteAll()", "discardAll()"],
+    "correctAnswer": "clear()"
+  },
+  {
+    "question": "Wie kann man in Python auf das letzte Element einer Liste zugreifen?",
+    "answers": ["list[-1]", "list[last]", "last(list)", "getLast(list)"],
+    "correctAnswer": "list[-1]"
+  },
+  {
+    "question": "Wie überprüft man, ob eine Zahl gerade ist, ohne den Modulo-Operator zu verwenden?",
+    "answers": ["if num % 2 == 0:", "if is_even(num):", "if num.even():", "if check_even(num):"],
+    "correctAnswer": "if is_even(num):"
+  },
+  {
+    "question": "Welches Schlüsselwort wird in Python verwendet, um eine Klasse zu erben?",
+    "answers": ["inherit", "extends", "classof", "class"],
+    "correctAnswer": "class"
+  },
+  {
+    "question": "Was ist der Zweck einer `while`-Schleife in Python?",
+    "answers": [ "Wiederholt eine Anweisung, solange die Bedingung wahr ist", "Iteriert über Elemente einer Liste", "Führt eine Anweisung einmal aus", "Erzeugt eine Endlosschleife"],
+    "correctAnswer": "Wiederholt eine Anweisung, solange die Bedingung wahr ist"
+  }
+]

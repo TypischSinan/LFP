@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Was für eine Art von Programmiersprache ist Java?",
+    "answers": ["Deklarativ", "Objektorientiert", "Prozedural", "Funktional"],
+    "correctAnswer": "Objektorientiert"
+  },  
+  {
+    "question": "Wie greift man auf das erste Element eines Arrays zu?",
+    "answers": ["array[0]", "array.first()", "array.get(1)", "array.initial()"],
+    "correctAnswer": "array[0]"
+  },  
+  {
+    "question": "Wie gibt man einen Text in der Konsole aus?",
+    "answers": ["console.print('Text')", "System.out.println('Text')", "print('Text')", "display('Text')"],
+    "correctAnswer": "System.out.println('Text')"
+  },  
+  {
+    "question": "Welches Schlüsselwort wird verwendet, um eine Methode zu definieren?",
+    "answers": ["method", "function", "def", "public void"],
+    "correctAnswer": "public void"
+  },  
+  {
+    "question": "Wie führt man eine Addition durch?",
+    "answers": ["add(x, y);", "x + y;", "x.add(y);", "sum(x, y);"],
+    "correctAnswer": "x + y;"
+  },  
+  {
+    "question": "Was ist der Unterschied zwischen 'break' und 'continue'?",
+    "answers": ["Beide beenden eine Schleife vorzeitig", "'break' beendet die aktuelle Schleife, 'continue' überspringt den Rest des aktuellen Schleifen-Durchlaufs", "'break' beendet das gesamte Programm, 'continue' setzt die Schleife fort", "'break' funktioniert nur in 'for'-Schleifen, 'continue' in 'while'-Schleifen"],
+    "correctAnswer": "'break' beendet die aktuelle Schleife, 'continue' überspringt den Rest des aktuellen Schleifen-Durchlaufs"
+  },  
+  {
+    "question": "Wie lautet die Syntax für eine 'while'-Schleife?",
+    "answers": ["while (i < 10) { }", "loop (i < 10) { }", "for (i = 0; i < 10) { }", "while (i = 10) { }"],
+    "correctAnswer": "while (i < 10) { }"
+  },  
+  {
+    "question": "Wie kann man  Benutzereingaben (Input) entgegennehmen?",
+    "answers": ["read()", "input()", "Scanner()", "getInput()"],
+    "correctAnswer": "Scanner()"
+  },  
+  {
+    "question": "Wie lautet die Syntax für eine 'if'-Bedingung",
+    "answers": ["if (condition) { }", "condition { }", "if condition: { }", "check condition then { }"],
+    "correctAnswer": "if (condition) { }"
+  },  
+  {
+    "question": "Was bewirkt die '!= '-Operatoren?",
+    "answers": ["Sie überprüfen, ob zwei Werte gleich sind", "Sie überprüfen, ob zwei Werte ungleich sind", "Sie überprüfen, ob ein Wert null ist", "Sie überprüfen, ob ein Wert wahr ist"],
+    "correctAnswer": "Sie überprüfen, ob zwei Werte ungleich sind"
+  }
+]

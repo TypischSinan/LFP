@@ -1,0 +1,62 @@
+[
+  {
+    "question": "Vervollständige den folgenden Python-Code, um die Quadratzahl jeder Zahl in der Liste 'numbers' zu berechnen:",
+    "codesnippet": "numbers = [1, 2, 3, 4, 5]\n\nfor num in numbers:\n  square = _____\n  print(square)\n",
+    "answers": ["num * num", "square = num ^ 2", "square = pow(num, 2)", "square = sqrt(num)" ],
+    "correctAnswer": "num * num"
+  },
+  {
+    "question": "Ergänze den Python-Code, um die Summe aller geraden Zahlen von 1 bis 10 zu berechnen:",
+    "codesnippet": "nsum_even = 0\n\nfor num in range(1, 11):\n if _____:\n    sum_even += num\n\nprint(sum_even)\n",
+    "answers": ["num % 2 == 0", "is_even(num)","num.is_even()","even(num)"],
+    "correctAnswer": "num % 2 == 0"
+  },
+  {
+    "question": "Ergänze den folgenden Python-Code, um das größte Element in der Liste 'values' zu finden:",
+    "codesnippet": "values = [8, 3, 5, 2, 10]\n\nmax_value = _____\n\nprint(max_value)\n",
+    "answers": ["max(values)", "maximum(values)", "findMax(values)", "values.max()"],
+    "correctAnswer": "max(values)"
+  },
+  {
+    "question": "Ergänze den Python-Code, um alle ungraden Zahlen von 1 bis 10 in eine Liste 'even_numbers' einzufügen:",
+    "codesnippet": "neven_numbers = []\n\nfor num in range(1, 11):\n  if _____:\n    even_numbers.append(num)\n\nprint(even_numbers)\n",
+    "answers": ["num % 2 == 0", "is_even(num)", "num % 2 == 1", "even(num)"],
+    "correctAnswer": "num % 2 == 0"
+  },
+  {
+    "question": "Vervollständige den Python-Code, um eine Funktion 'multiply' zu definieren, die zwei Parameter 'a' und 'b' annimmt und deren Produkt zurückgibt:",
+    "codesnippet":"def multiply(a, b):\n  result = _____\n  return result\n",
+    "answers": ["a * b", "result = a + b", "result = a / b", "multiply(a, b)"],
+    "correctAnswer": "a * b"
+  },
+  {
+    "question": "Ergänze den Python-Code, um die Fakultät einer Zahl 'n' zu berechnen:",
+    "codesnippet": "def factorial(n):\n  result = 1\n  for i in range(1, _____):\n    result *= i\n  return result\n",
+    "answers": ["n + 1", "n", "n - 1", "2 * n"],
+    "correctAnswer": "n + 1"
+  },
+  {
+    "question": "Vervollständige den folgenden Python-Code, um eine Liste 'even_squares' mit den Quadraten aller geraden Zahlen von 1 bis 10 zu erstellen:",
+    "codesnippet": "even_squares = \n[_____ for num in range(1, 11) \\ \nif num % 2 == 0]\n",
+    "answers": ["num * num", "pow(num, 2)", "num ^ 2", "sqrt(num)"],
+    "correctAnswer": "num * num"
+  },
+  {
+    "question": "Ergänze den Python-Code, um die Zeichenkette 'Hello, World!' in umgekehrter Reihenfolge auszugeben:",
+    "codesnippet": "message = 'Hello, World!'\nreversed_message = _____\nprint(reversed_message)\n",
+    "answers": ["message[::-1]", "reverse(message)", "reversed(message)", "invert(message)"],
+    "correctAnswer": "message[::-1]"
+  },
+  {
+    "question": "Vervollständige den folgenden Python-Code, um die Summe aller Elemente in der Liste 'values' zu berechnen:",
+    "codesnippet": "values = [4, 8, 2, 5, 10]\n\nsum_values = _____\n\nprint(sum_values)\n",
+    "answers": ["sum(values)", "total(values)", "add(values)", "calculate_sum(values)"],
+    "correctAnswer": "sum(values)"
+  },
+  {
+    "question": "Ergänze den Python-Code, um die Anzahl der Buchstaben 'a' in der Zeichenkette 'word' zu zählen:",
+    "codesnippet": "word = 'banana'\ncount_a = _____\nprint(count_a)\n",
+    "answers": ["word.count('a')", "count(word, 'a')", "word.find('a')", "len(word)"],
+    "correctAnswer": "word.count('a')"
+  }
+]
