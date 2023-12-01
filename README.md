@@ -1,4 +1,4 @@
-## You can run the application directly in the browser by clicking on the first link in the "About" section at the top right.
+## Sie können die Anwendung direkt im Browser starten, indem Sie auf den ersten Link im Abschnitt "Über" oben rechts klicken.
 
 # LFP - Learn Fast Programming
 
